@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      "开篇"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-04-02 01:00:00
+author:     "Fiasco"
+header-img: "img/contact-bg.jpg"
+tags:
+    - 博客 
+---
+
+
+
+## 前言
+
+终于开通博客了。
+
+---
+
+## 正文
+
+今天买了dadangjia.me的域名，终于开通博客了。加油。
+
+
+
+
+
+
+
+
